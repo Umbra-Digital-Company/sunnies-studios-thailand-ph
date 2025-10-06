@@ -68,7 +68,7 @@
         "scroll_text": "NEW STORE",
         "background_color": "#d2b48c",
         "text_color": "#b8860b",
-        "scroll_speed": 20,
+        "scroll_speed": 15,
         "scroll_text_font_url": ""
       }
     },
