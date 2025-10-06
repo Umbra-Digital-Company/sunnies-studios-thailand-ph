@@ -16,6 +16,7 @@
           "type": "product_category",
           "settings": {
             "category_image": "shopify://shop_images/studios.png",
+            "category_content_image": "shopify://shop_images/Sunnies_Studios_logo_linear.svg",
             "category_title": "",
             "category_tagline": "Eyewear you live in",
             "category_url": ""
@@ -25,6 +26,7 @@
           "type": "product_category",
           "settings": {
             "category_image": "shopify://shop_images/flask.png",
+            "category_content_image": "shopify://shop_images/Sunnies_Flask_logo_linear.svg",
             "category_title": "",
             "category_tagline": "Beauty that gets you",
             "category_url": ""
@@ -34,6 +36,7 @@
           "type": "product_category",
           "settings": {
             "category_image": "shopify://shop_images/coffee.png",
+            "category_content_image": "shopify://shop_images/Sunnies_Coffee_logo_linear_1.svg",
             "category_title": "",
             "category_tagline": "The most customizable flask ever",
             "category_url": ""
@@ -43,6 +46,7 @@
           "type": "product_category",
           "settings": {
             "category_image": "shopify://shop_images/face.png",
+            "category_content_image": "shopify://shop_images/Sunnies_Face_logo_linear.svg",
             "category_title": "",
             "category_tagline": "Your daily dose of good stuff",
             "category_url": ""
