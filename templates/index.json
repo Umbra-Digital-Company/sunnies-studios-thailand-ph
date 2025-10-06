@@ -91,6 +91,7 @@
         "slide_6PWUTJ": {
           "type": "slide",
           "settings": {
+            "slide_image": "shopify://shop_images/Sunnies_TH_Store_Images_01.png",
             "slide_alt": "",
             "slide_title": "",
             "slide_description": ""
@@ -99,6 +100,7 @@
         "slide_JnRRTK": {
           "type": "slide",
           "settings": {
+            "slide_image": "shopify://shop_images/Sunnies_TH_Store_Images_02.png",
             "slide_alt": "",
             "slide_title": "",
             "slide_description": ""
@@ -107,6 +109,7 @@
         "slide_aabRXE": {
           "type": "slide",
           "settings": {
+            "slide_image": "shopify://shop_images/Sunnies_TH_Store_Images_03.png",
             "slide_alt": "",
             "slide_title": "",
             "slide_description": ""
@@ -115,6 +118,7 @@
         "slide_gyHhyA": {
           "type": "slide",
           "settings": {
+            "slide_image": "shopify://shop_images/Sunnies_TH_Store_Images_04.png",
             "slide_alt": "",
             "slide_title": "",
             "slide_description": ""
@@ -123,6 +127,7 @@
         "slide_Nz4YTy": {
           "type": "slide",
           "settings": {
+            "slide_image": "shopify://shop_images/Sunnies_TH_Store_Images_05.png",
             "slide_alt": "",
             "slide_title": "",
             "slide_description": ""
@@ -139,6 +144,7 @@
         "slide_3emCbE": {
           "type": "slide",
           "settings": {
+            "slide_image": "shopify://shop_images/Sunnies_TH_Store_Images_06.png",
             "slide_alt": "",
             "slide_title": "",
             "slide_description": ""
