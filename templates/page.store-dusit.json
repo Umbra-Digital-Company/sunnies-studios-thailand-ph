@@ -16,9 +16,15 @@
         "desktop_height": "100",
         "mobile_height": "60"
       }
+    },
+    "store_NrqqWi": {
+      "type": "store",
+      "name": "Store",
+      "settings": {}
     }
   },
   "order": [
-    "86b4f3fc-9684-44fa-841d-877be5ba6262"
+    "86b4f3fc-9684-44fa-841d-877be5ba6262",
+    "store_NrqqWi"
   ]
 }
