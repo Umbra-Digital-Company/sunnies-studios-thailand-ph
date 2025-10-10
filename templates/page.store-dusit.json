@@ -21,10 +21,16 @@
       "type": "store",
       "name": "Store",
       "settings": {}
+    },
+    "store_abouts_WMVGzq": {
+      "type": "store-abouts",
+      "name": "Store abouts",
+      "settings": {}
     }
   },
   "order": [
     "86b4f3fc-9684-44fa-841d-877be5ba6262",
-    "store_NrqqWi"
+    "store_NrqqWi",
+    "store_abouts_WMVGzq"
   ]
 }
