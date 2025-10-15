@@ -8784,8 +8784,8 @@
         "type": "sunnies-world-news-bar",
         "settings": {
           "show_section": true,
-          "news_text": "Now open:  Sunnies World in Dusit Central Park Thailand. <u>Learn more.</u>",
-          "news_url": "",
+          "news_text": "Now open: Sunnies World in Dusit Central Park Mall",
+          "news_url": "shopify://pages/dusit-central-park-mall",
           "background_color": "#352b27",
           "text_color": "#ffffff"
         }
