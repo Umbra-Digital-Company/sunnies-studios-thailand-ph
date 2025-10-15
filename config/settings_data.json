@@ -8806,14 +8806,14 @@
             "type": "footer_link",
             "settings": {
               "link_text": "sunniesstudios.com",
-              "link_url": ""
+              "link_url": "https://ph.sunniesstudios.com"
             }
           },
           "footer_link_jUQBLh": {
             "type": "footer_link",
             "settings": {
               "link_text": "sunniesflask.com",
-              "link_url": ""
+              "link_url": "https://sunniesflask.com"
             }
           }
         },
