@@ -140,6 +140,7 @@
         "slide_BMwfFR": {
           "type": "slide",
           "settings": {
+            "slide_image": "shopify://shop_images/coffee-desktop-100_b20939d6-595d-4208-8a24-e76ff734bee1.jpg",
             "slide_alt": "",
             "slide_title": "",
             "slide_description": ""
@@ -147,6 +148,7 @@
         },
         "slide_3emCbE": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "slide_image": "shopify://shop_images/Sunnies_TH_Store_Images_06.png",
             "slide_alt": "",
