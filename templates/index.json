@@ -15,7 +15,7 @@
         "product_category_MRe6hr": {
           "type": "product_category",
           "settings": {
-            "category_image": "shopify://shop_images/Sunnies_World_Thailand_Web_Brand_Images-Desktop_Sun.jpg",
+            "category_image": "shopify://shop_images/Sunnies_World_Thailand_Web_Brand_Images-Mobile_Sun.jpg",
             "category_content_image": "shopify://shop_images/Sunnies_Studios_logo_linear.svg",
             "category_title": "",
             "category_tagline": "Eyewear you live in",
@@ -25,7 +25,7 @@
         "product_category_mTzzF3": {
           "type": "product_category",
           "settings": {
-            "category_image": "shopify://shop_images/Sunnies_World_Thailand_Web_Brand_Images-Desktop_Flask.jpg",
+            "category_image": "shopify://shop_images/Sunnies_World_Thailand_Web_Brand_Images-Mobile_Flask.jpg",
             "category_content_image": "shopify://shop_images/Sunnies_Flask_logo_linear.svg",
             "category_title": "",
             "category_tagline": "The most customizable flask ever",
